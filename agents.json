@@ -14,5 +14,13 @@
     "status": "REVOKED",
     "registered_at": "2026-11-18 14:15:00",
     "revoked_at": "2026-11-19 09:20:15"
+  },
+  {
+    "id": "AGT-103",
+    "customer": "Aarav",
+    "agent_name": "ShopAssistAI",
+    "status": "REVOKED",
+    "registered_at": "2026-11-19 18:52:48",
+    "revoked_at": "2026-11-19 18:56:32"
   }
 ]
