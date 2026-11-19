@@ -1,0 +1,18 @@
+[
+  {
+    "id": "AGT-101",
+    "customer": "Ananya Sharma",
+    "agent_name": "FashionBot-Alpha",
+    "status": "ACTIVE",
+    "registered_at": "2026-11-19 10:30:00",
+    "revoked_at": "-"
+  },
+  {
+    "id": "AGT-102",
+    "customer": "Rohan Mehta",
+    "agent_name": "StyleScout-99",
+    "status": "REVOKED",
+    "registered_at": "2026-11-18 14:15:00",
+    "revoked_at": "2026-11-19 09:20:15"
+  }
+]

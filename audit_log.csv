@@ -1,0 +1,7 @@
+Timestamp,Customer,Agent,Action,Amount,Decision,Rule
+2026-11-19 10:35:12,Ananya Sharma,FashionBot-Alpha,view order,₹0.00,ALLOW,Rule 3
+2026-11-19 10:40:45,Ananya Sharma,FashionBot-Alpha,place order,₹1,499.00,ALLOW,Rule 4
+2026-11-19 11:15:20,Ananya Sharma,FashionBot-Alpha,place order,₹4,899.00,ASK CUSTOMER,Rule 5
+2026-11-19 11:45:00,Ananya Sharma,FashionBot-Alpha,return,₹1,499.00,ASK CUSTOMER,Rule 6
+2026-11-19 12:00:10,Rohan Mehta,StyleScout-99,place order,₹899.00,BLOCK,Rule 1
+2026-11-19 12:10:30,Vikram Rao,UnknownBot,view order,₹0.00,BLOCK,Rule 2
