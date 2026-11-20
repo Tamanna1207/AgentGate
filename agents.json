@@ -22,5 +22,13 @@
     "status": "REVOKED",
     "registered_at": "2026-11-19 18:52:48",
     "revoked_at": "2026-11-19 18:56:32"
+  },
+  {
+    "id": "AGT-104",
+    "customer": "Priya",
+    "agent_name": "MyntraBot",
+    "status": "REVOKED",
+    "registered_at": "2026-11-19 19:21:51",
+    "revoked_at": "2026-11-19 20:24:08"
   }
 ]

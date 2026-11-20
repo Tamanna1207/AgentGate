@@ -11,3 +11,9 @@ Timestamp,Customer,Agent,Action,Amount,Decision,Rule
 2026-11-19 18:55:45,Aarav,ShopAssistAI,place order,"₹4,500.00",ASK CUSTOMER,Rule 5
 2026-11-19 18:56:07,Aarav,ShopAssistAI,refund,₹999.00,ASK CUSTOMER,Rule 6
 2026-11-19 18:57:00,Aarav,ShopAssistAI,view order,₹0.00,BLOCK,Rule 1
+2026-11-19 20:22:36,Riya,MyntraBot,view order,₹0.00,ALLOW,Rule 3
+2026-11-19 20:22:53,Riya,FakeBot,view order,₹0.00,BLOCK,Rule 2
+2026-11-19 20:23:18,Riya,MyntraBot,place order,"₹1,500.00",ALLOW,Rule 4
+2026-11-19 20:23:30,Riya,MyntraBot,place order,"₹5,000.00",ASK CUSTOMER,Rule 5
+2026-11-19 20:23:47,Riya,MyntraBot,refund,"₹5,000.00",ASK CUSTOMER,Rule 6
+2026-11-19 20:24:34,Riya,MyntraBot,place order,₹0.00,BLOCK,Rule 1
